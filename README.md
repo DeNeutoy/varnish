@@ -89,6 +89,7 @@ A library of AI2 themed React components.
     ```bash
     git clone git@github.com:allenai/varnish.git
     cd varnish
+    yarn install
     ```
 
 1. Running the demo
